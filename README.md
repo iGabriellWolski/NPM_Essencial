@@ -1,39 +1,3 @@
-<style>
-/* Estilo geral */
-body {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: #000;
-    color: #0f0;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    color: #fff;
-}
-
-/* Estilo para janela Windows 95 */
-.window {
-    background-color: #008000;
-    border: 2px solid #fff;
-    padding: 10px;
-    margin: 10px 0;
-}
-
-/* Estilo para código */
-code {
-    color: #0f0;
-    background-color: #000;
-    padding: 2px 4px;
-    border: 1px solid #0f0;
-}
-
-pre {
-    background-color: #000;
-    padding: 10px;
-    border: 1px solid #0f0;
-}
-
-</style>
-
 # Introdução ao npm
 
 ## O que é npm?
